@@ -4,13 +4,13 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Here's my Linkedin Profile : [https://www.linkedin.com/in/sbbshrestha)
 
 ## Images
 
 Here is my Tableau Profile :
 
-https://public.tableau.com/app/profile/sushanta.shrestha8406/vizzes
+[My Tableau Profile](https://public.tableau.com/app/profile/sushanta.shrestha8406/vizzes)
 
 ## Reminders
 
