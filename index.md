@@ -1,4 +1,4 @@
-# My Website Title 
+# Welcome to my Github Page
 
 My first website using Markdown and GitHub Pages.
 
@@ -8,9 +8,9 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 ## Images
 
-Images look like links except with an exclamation directly in front
+Here is my Tableau Profile :
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+https://public.tableau.com/app/profile/sushanta.shrestha8406/vizzes
 
 ## Reminders
 
