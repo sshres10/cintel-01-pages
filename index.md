@@ -2,7 +2,6 @@
 
 My first website using Markdown and GitHub Pages.
 
-## Links (Two hashes is a second level heading)
 
 Here's my Linkedin Profile : [https://www.linkedin.com/in/sbbshrestha)
 
@@ -14,10 +13,4 @@ Here is my Tableau Profile :
 
 ## Reminders
 
-Use a dash space for unordered lists
-
-- Spaces matter
-
-- Spelling matters
-
-- Capitalization matters
+- Stay tuned for updates and new content.
