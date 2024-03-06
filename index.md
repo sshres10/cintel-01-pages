@@ -3,7 +3,7 @@
 My first website using Markdown and GitHub Pages.
 
 
-Here's my Linkedin Profile : [https://www.linkedin.com/in/sbbshrestha)
+[Here's my Linkedin Profile](https://www.linkedin.com/in/sbbshrestha)
 
 ## Images
 
